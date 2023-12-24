@@ -1,4 +1,4 @@
-# xfarr-api
+# jer-api
 
 ## Installation
 npm:
