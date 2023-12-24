@@ -30,7 +30,7 @@ jerofc.[feature].[name](parameter)
   });
 
 // Example of an API call
-jerofc.igstory.npmjs("xfarr-api")
+jerofc.igstory.npmjs("jer-api")
   .then(response => {
     console.log(response);
   })
@@ -39,7 +39,7 @@ jerofc.igstory.npmjs("xfarr-api")
   });
 
   // Example of an API call
-jerofc.igdl.npmjs("xfarr-api")
+jerofc.igdl.npmjs("jer-api")
   .then(response => {
     console.log(response);
   })
@@ -48,7 +48,7 @@ jerofc.igdl.npmjs("xfarr-api")
   });
 
   // Example of an API call
-jerofc.twittee.npmjs("xfarr-api")
+jerofc.twittee.npmjs("jer-api")
   .then(response => {
     console.log(response);
   })
@@ -57,7 +57,7 @@ jerofc.twittee.npmjs("xfarr-api")
   });
 
   // Example of an API call
-jerofc.tiktokStalk.npmjs("xfarr-api")
+jerofc.tiktokStalk.npmjs("jer-api")
   .then(response => {
     console.log(response);
   })
@@ -67,4 +67,4 @@ jerofc.tiktokStalk.npmjs("xfarr-api")
 ```
 
 # Feedback
-If you have any feedback, please reach out to us at xfar.dev@gmail.com
+If you have any feedback, please reach out to us at jerofcbusisnes@gmail.com
